@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tes Sumatif kelas 4",
+  "description": "Aplikasi Tes Sumatif Matematika Numerasi Kelas 1 SD Negeri 3 Loloan Timur dengan analisis butir soal, matriks respon siswa, kisi-kisi kedinasan, dan panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
